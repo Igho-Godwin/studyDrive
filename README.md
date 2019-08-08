@@ -33,8 +33,8 @@ php artisan db:seed (to seed course table)
 php vendor/phpunit/phpunit/phpunit (to run test on windows machine)
 
 
-Other Documentation 
-===================
+Postman Documentation Url 
+==========================
 
 https://documenter.getpostman.com/view/1599757/SVYtLH54?version=latest
 
