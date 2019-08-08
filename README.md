@@ -1,6 +1,6 @@
 # studyDrive
 
-App Installion
+App Installation
 ====================
 
 development 
