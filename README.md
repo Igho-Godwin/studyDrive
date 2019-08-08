@@ -16,6 +16,8 @@ php artisan db:seed (to seed course table)
 
 php artisan serve (to run)
 
+courses with active value of 1 are available and those with active value of 0 are unavailable (thats for get all course list)
+
 
 Testing
 ========
