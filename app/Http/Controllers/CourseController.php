@@ -81,8 +81,8 @@ class CourseController extends BaseController
             $capacity = Course::find($course_id)->capacity;
             
             $no_of_registered_courses = CourseRegistration::where('course_id',$course_id)
-                              ->where('active',1)
-                              ->count();
+                                                           ->where('active',1)
+                                                           ->count();
             
         }
         catch(\Exception $e)
